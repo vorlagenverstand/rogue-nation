@@ -45,15 +45,15 @@
     [
         "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1530131129881,
-            "changeTime": 1530131129881,
-            "isWorkspace": false,
-            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
+            "modifiedTime": 1530144458393,
+            "changeTime": 1530144458393,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -231,10 +231,10 @@
         {
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "size": 155,
-            "modifiedTime": 1530130756656,
-            "changeTime": 1530130756656,
-            "contentHash": "6b5f335eaf23bca58d41845b4bf8336379188c5c",
+            "size": 210,
+            "modifiedTime": 1530144346264,
+            "changeTime": 1530144346264,
+            "contentHash": "ad5034e98e23677e851f8951b92a80b58fbd8de1",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -281,14 +281,14 @@
     [
         "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 203,
             "modifiedTime": 1530131240153,
             "changeTime": 1530131240153,
-            "contentHash": "7bdcc8d8705a0cf7559fde8b087a04444fc45e15"
+            "contentHash": "7bdcc8d8705a0cf7559fde8b087a04444fc45e15",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -517,10 +517,10 @@
         {
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
-            "size": 339,
-            "modifiedTime": 1530129891968,
-            "changeTime": 1530129891968,
-            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
+            "size": 543,
+            "modifiedTime": 1530144647852,
+            "changeTime": 1530144647852,
+            "contentHash": "744759611f8a2e3b87c28ffcffb5d9cbc3c97cba",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -582,10 +582,10 @@
         {
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
-            "size": 255,
-            "modifiedTime": 1530129942905,
-            "changeTime": 1530129942906,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "size": 395,
+            "modifiedTime": 1530144708665,
+            "changeTime": 1530144708665,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -918,92 +918,92 @@
     [
         "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1530131129901,
             "changeTime": 1530131129901,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1530131129900,
             "changeTime": 1530131129900,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
+            "size": 330,
+            "modifiedTime": 1530144761624,
+            "changeTime": 1530144761624,
+            "contentHash": "9fadcb465f3944d604168423683b8f72045a9b9a",
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1530131186016,
-            "changeTime": 1530131186016,
-            "contentHash": "f9b6c3794ae4ae87a33740d78e7022444aea9234"
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1530131129886,
             "changeTime": 1530131129886,
-            "contentHash": "1535fd0a14b1d55c7ad7cd83bfb2085ef1e50c52"
+            "contentHash": "1535fd0a14b1d55c7ad7cd83bfb2085ef1e50c52",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1530131214695,
             "changeTime": 1530131214695,
-            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1"
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1530131129902,
             "changeTime": 1530131129902,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1530131129898,
             "changeTime": 1530131129898,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1013,36 +1013,75 @@
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 387,
-            "modifiedTime": 1530131202593,
-            "changeTime": 1530131202593,
-            "contentHash": "d9c003312310adfc8ac80ff9005aba9cc7d51056"
+            "size": 838,
+            "modifiedTime": 1530145344055,
+            "changeTime": 1530145344055,
+            "contentHash": "09d9b21338103cf04a79cf0b335f2fb7ae2fc767"
         }
     ],
     [
         "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1530131129891,
             "changeTime": 1530131129891,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1530131129896,
             "changeTime": 1530131129896,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530144458398,
+            "changeTime": 1530144458398,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "size": 100,
+            "modifiedTime": 1530144480687,
+            "changeTime": 1530144480687,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\j.mercado.valenzuela\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1530144458399,
+            "changeTime": 1530144458399,
+            "contentHash": "cec1196c308ccd6bc750071048cc217eb2543ac8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
